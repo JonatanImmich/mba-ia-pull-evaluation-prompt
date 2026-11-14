@@ -89,21 +89,21 @@ As duas execuções usam o mesmo prompt. A diferença entre elas é a variação
 
 Dataset com os dois experimentos e as médias das métricas:
 
-![Experimentos do dataset](docs/screenshots/dataset-experimentos.png)
+![Experimentos do dataset](docs/evidencias/dataset-experimentos.png)
 
 Os 15 exemplos do dataset:
 
-![Exemplos do dataset](docs/screenshots/dataset-exemplos.png)
+![Exemplos do dataset](docs/evidencias/dataset-exemplos.png)
 
 Notas por exemplo na execução 2:
 
-![Notas por exemplo](docs/screenshots/experimento-langsmith.png)
+![Notas por exemplo](docs/evidencias/experimento-langsmith.png)
 
 Tracing de três exemplos (simples, médio e complexo):
 
-![Tracing de um bug simples](docs/screenshots/tracing-exemplo-simples.png)
-![Tracing de um bug médio](docs/screenshots/tracing-exemplo-medio.png)
-![Tracing de um bug complexo](docs/screenshots/tracing-exemplo-complexo.png)
+![Tracing de um bug simples](docs/evidencias/tracing-exemplo-simples.png)
+![Tracing de um bug médio](docs/evidencias/tracing-exemplo-medio.png)
+![Tracing de um bug complexo](docs/evidencias/tracing-exemplo-complexo.png)
 
 ### Iterações
 
